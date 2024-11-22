@@ -61,7 +61,7 @@ const About = () => {
             </div>
             <div>
               <p className="grid-headtext">I’m open to working from anywhere in the world.</p>
-              <p className="grid-subtext">Currently based in Santa Monica, California.</p>
+              <p className="grid-subtext">After 8 years of living in the San Francisco Bay Area, I moved down to Los Angeles. I am currently based in Santa Monica, California.</p>
             </div>
           </div>
         </div>
