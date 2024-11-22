@@ -60,9 +60,8 @@ const About = () => {
               />
             </div>
             <div>
-              <p className="grid-headtext">I’m open to working from anywhere in the world.</p>
-              <p className="grid-subtext">I&apos;m based in Santa Monica, California.</p>
-              <Button name="Contact Me" isBeam containerClass="w-full mt-10" />
+              <p className="grid-headtext">I'm open to working from anywhere in the world.</p>
+              <p className="grid-subtext">I&apos;m currently based in Santa Monica, California.</p>
             </div>
           </div>
         </div>
