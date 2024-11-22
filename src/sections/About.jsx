@@ -25,7 +25,7 @@ const About = () => {
             <div>
               <p className="grid-headtext">Hi, I’m Abdullah Odeh</p>
               <p className="grid-subtext">
-                I'm a professional Web Developer with over 4 years of experience. I currently work at Wunderkind.
+                I'm a professional Web Developer with over 4 years of experience. I currently work at <a className='font-bold' rel='noopener noreferrer' href='https://www.wunderkind.co' target='_blank'>Wunderkind.</a>
               </p>
             </div>
           </div>
