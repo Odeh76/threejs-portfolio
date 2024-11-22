@@ -25,7 +25,7 @@ const About = () => {
             <div>
               <p className="grid-headtext">Hi, I’m Abdullah Odeh</p>
               <p className="grid-subtext">
-                I'm a professional Web Developer with over 4 years of experience. I currently work at <a className='font-bold' rel='noopener noreferrer' href='https://www.wunderkind.co' target='_blank'>Wunderkind.</a>
+              I’m a Web Developer with over 4 years of experience, currently building user-focused applications at <a className='grid-headtext' target='_blank' rel='noopener noreferrer' href='https://www.wunderkind.co'>Wunderkind</a>. I enjoy working with cross-functional teams and stakeholders who share the same values for developing applications that improve user experience.
               </p>
             </div>
           </div>
@@ -38,7 +38,7 @@ const About = () => {
             <div>
               <p className="grid-headtext">Tech Stack</p>
               <p className="grid-subtext">
-                I specialize in a variety of languages and frameworks, primarily React, NextJS, Headless CMS, and GraphQL.
+                I specialize in a variety of languages and frameworks. I'm currently primarily working with React, GatsbyJS, SCSS, WordPress Headless CMS, and GraphQL.
               </p>
             </div>
           </div>
@@ -71,10 +71,10 @@ const About = () => {
             <img src="assets/grid3.png" alt="grid-3" className="w-full sm:h-[266px] h-fit object-contain" />
 
             <div>
-              <p className="grid-headtext">My Passion for Coding</p>
+              <p className="grid-headtext">My love for coding</p>
               <p className="grid-subtext">
-                I love solving problems and building things through code. Programming isn&apos;t just my
-                profession—it&apos;s my passion. I enjoy exploring new technologies, and enhancing my skills.
+              My journey with Web Development started in my last year of college. I was experiencing some angst about what career I should pursue. I had taken some programming courses throughout my degree and found it was interesting to solve problems with code but didn't really give it the time of day. I thought I'd seriously try it out and started teaching myself how to code alongside my degree. I found the <a className='grid-headtext' rel='noreferrer noopener' target="_blank" href='https://www.youtube.com/traversymedia'>Traversy Media</a> YouTube Channel that specializes in programming and technical education. I learned the fundamentals of web development and built projects along with the tutorials and enjoyed the process of building things on the web.
+              After about a year or so, I got an internship for a small advertising agency in LA. I worked with <a className='grid-headtext' rel='noreferrer noopener' target="_blank" href='https://www.creativedigitalagency.com/'>CDA</a> for a little over 18 months before joining Wunderkind in September 2022.
               </p>
             </div>
           </div>
