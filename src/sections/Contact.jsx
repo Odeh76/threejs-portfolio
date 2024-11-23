@@ -16,18 +16,14 @@ const Contact = () => {
     setForm({ ...form, [name]: value });
   };
 
-  const serviceId = import.meta.env.VITE_APP_EMAILJS_SERVICE_ID
-  const templateId = import.meta.env.VITE_APP_EMAILJS_TEMPLATE_ID
-  const publicKey = import.meta.env.VITE_APP_EMAILJS_PUBLIC_KEY
-
   const handleSubmit = (e) => {
     e.preventDefault();
     setLoading(true);
 
     emailjs
       .send(
-        serviceId,
-        templateId,
+        'service_8to072h',
+        'template_24xxbdo',
         {
           from_name: form.name,
           to_name: 'Abdullah Odeh',
@@ -35,7 +31,7 @@ const Contact = () => {
           to_email: 'abdullahsayshello@gmail.com',
           message: form.message,
         },
-        publicKey,
+        'wD16Ly4u1LP0FwhQB',
       )
       .then(
         () => {
