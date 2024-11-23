@@ -26,9 +26,9 @@ const Contact = () => {
         'template_24xxbdo',
         {
           from_name: form.name,
-          to_name: 'JavaScript Mastery',
+          to_name: 'Abdullah Odeh',
           from_email: form.email,
-          to_email: 'sujata@jsmastery.pro',
+          to_email: 'abdullahsayshello@gmail.com',
           message: form.message,
         },
         'wD16Ly4u1LP0FwhQB',
