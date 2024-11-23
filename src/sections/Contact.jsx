@@ -31,7 +31,7 @@ const Contact = () => {
           to_email: 'abdullahsayshello@gmail.com',
           message: form.message,
         },
-        import.meta.env.VITE_APP_EMAILJS_PUBLIC_KEY,
+        'service_8to072h',
       )
       .then(
         () => {
